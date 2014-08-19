@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=lif1421007012176.db.6168907.hostedresource.com;Initial Catalog=lif1421007012176;Integrated Security=False;Persist Security Info=False;User ID=lif1421007012176;Password=RedR@ider07;MultipleActiveResultSets=True
